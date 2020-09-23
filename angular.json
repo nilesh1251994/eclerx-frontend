@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "car-insurance"
+    }
+  },
+  "defaultProject": "car-insurance",
+  "cli": {
+    "analytics": "9106f3ef-ca75-4cd8-8b27-0fde9f93f1d6"
+  }
 }
